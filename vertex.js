@@ -27627,7 +27627,7 @@ var shadow$provide = {};
       un = new C(null, "js-array", "js-array", -1210185421),
       vn =
       new C(null, "on-success-callback", "on-success-callback", 1038309943),
-      gp = new C(null, "print-dotted", "print-dotted", 678369167),
+      gp = new C(null, "print-dotted   ", "print-dotted   ", 678369167),
       wn = new y(null, "goog.object", "goog.object", 678593132, null),
       xn = new C(null, "internal-ctor", "internal-ctor", 937392560),
       yn = new C(null, "unnamed", "unnamed", -26044928),
@@ -28102,7 +28102,7 @@ var shadow$provide = {};
          "var", "var", 870848730, null),
       tv = new y("cljs.core", "zero?", "cljs.core/zero?", -341242858, null),
       uv = new C(null, "doc", "doc", 1913296891),
-      nD = new C(null, "print-dotted-lined-arrow", "print-dotted-lined-arrow", -1732720420),
+      nD = new C(null, "print-dotted-lined-arrow   ", "print-dotted-lined-arrow   ", -1732720420),
       vv = new C(null, "expr", "expr", 745722291),
       wv = new y("cljs.core", "instance?", "cljs.core/instance?", 2044751870, null),
       xv = new C(null, "pmasks", "pmasks", -871416698),
@@ -28242,7 +28242,7 @@ var shadow$provide = {};
       Ix = new C(null, "key", "key", -1516042587),
       Jx = new C(null, "db", "db", 993250759),
       Kx = new y(null, "macroexpand-check", "macroexpand-check", 699092091, null),
-      uK = new C(null, "print-dotted-lined", "print-dotted-lined", 437237719),
+      uK = new C(null, "print-dotted-lined   ", "print-dotted-lined   ", 437237719),
       Lx = new C(null, "up-arrow", "up-arrow", 1705310333),
       Mx = new C(null,
          "available-fonts", "available-fonts", -1866137921),
@@ -39972,7 +39972,7 @@ var shadow$provide = {};
    };
    var yL = new V(null, 6, 5, X, [new q(null, 5, [hw, "Print Dotted", Hy, gp, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/6c35d3a9-c6c1-48a2-80bc-6c5eb935fd91", Fw, .83, tK, " "], null), new q(null, 5, [hw, "Print Dotted Lined", Hy, uK, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/800e1c8a-7a5e-462e-bce8-736aaa314a7a", Fw, 1, tK, "/"], null), new q(null, 5, [hw, "Print Dotted Lined Arrow", Hy, nD, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/29144632-04be-4417-ae56-a9cbea37f413",
          Fw, .85, tK, "/"
-      ], null), new q(null, 5, [hw, "Slant Dotted", Hy, jD, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/624ad064-3773-4996-bacb-6c550ecb496f", Fw, 1, tK, " "], null), new q(null, 5, [hw, "Slant Dotted Lined", Hy, kD, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/97ebf32b-bd2f-46f3-a7d7-63a16cf69054", Fw, 1, tK, "/"], null), new q(null, 5, [hw, "Slant Dotted Lined Arrow", Hy, sK, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/2512d5fc-ecdb-43ec-979c-2c37bfa2c22a",
+      ], null), new q(null, 5, [hw, "Slant Dotted   ", Hy, jD, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/624ad064-3773-4996-bacb-6c550ecb496f", Fw, 1, tK, " "], null), new q(null, 5, [hw, "Slant Dotted Lined   ", Hy, kD, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/97ebf32b-bd2f-46f3-a7d7-63a16cf69054", Fw, 1, tK, "/"], null), new q(null, 5, [hw, "Slant Dotted Lined Arrow   ", Hy, sK, Ow, "https://resources.homemade-gifts-made-easy.com/name-tracing-generator/2512d5fc-ecdb-43ec-979c-2c37bfa2c22a",
          Fw, 1.15, tK, "/"
       ], null)], null),
       ZL = uf(Bf, function sM(a) {
@@ -40404,7 +40404,7 @@ var shadow$provide = {};
    }
 
    function KL() {
-      return new V(null, 3, 5, X, [Ml, new V(null, 3, 5, X, [au, U, "Tips"], null), new V(null, 4, 5, X, [lm, U, new V(null, 2, 5, X, [Kk, "To make the text smaller, add spaces before and after the name, or increase repetitions"], null), new V(null, 4, 5, X, [Kk, "Click the Download button then look for ", new V(null, 2, 5, X, [Kt, "Color Vertex - Worksheet Generator.pdf"], null), " in your downloads folder"], null)], null)], null)
+      return new V(null, 1, 1, X, [Ml, new V(null, 1, 1, X, [au, U, ""], null), new V(null, 1, 1, X, [lm, U, new V(null, 1, 1, X, [Kk, ""], null), new V(null, 1, 1, X, [Kk, "", new V(null, 1, 1, X, [Kt, ""], null), ""], null)], null)], null)
    }
 
    function LL() {
@@ -40526,7 +40526,7 @@ var shadow$provide = {};
    }
 
    function PL() {
-      return new V(null, 2, 5, X, [Ml, new V(null, 6, 5, X, [dn, new V(null, 2, 5, X, [py, "Name Tracing Generator"], null), new V(null, 1, 5, X, [KL], null), new V(null, 3, 5, X, [Jo, new V(null, 4, 5, X, [Cp, new V(null, 1, 5, X, [JL], null), new V(null, 1, 5, X, [LL], null), new V(null, 1, 5, X, [$L], null)], null), new V(null, 2, 5, X, [nt, new V(null, 1, 5, X, [OL], null)], null)], null), new V(null, 2, 5, X, [Rm, new q(null, 1, [En, new q(null, 1, [uu, "15px"], null)], null)], null), new V(null, 1, 5, X, [NL], null)], null)], null)
+      return new V(null, 2, 5, X, [Ml, new V(null, 6, 5, X, [dn, new V(null, 2, 5, X, [py, "Color Vertex Worksheet Generator"], null), new V(null, 1, 5, X, [KL], null), new V(null, 3, 5, X, [Jo, new V(null, 4, 5, X, [Cp, new V(null, 1, 5, X, [JL], null), new V(null, 1, 5, X, [LL], null), new V(null, 1, 5, X, [$L], null)], null), new V(null, 2, 5, X, [nt, new V(null, 1, 5, X, [OL], null)], null)], null), new V(null, 2, 5, X, [Rm, new q(null, 1, [En, new q(null, 1, [uu, "15px"], null)], null)], null), new V(null, 1, 5, X, [NL], null)], null)], null)
    };
 
    function QL(a) {
