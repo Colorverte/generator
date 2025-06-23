@@ -101,16 +101,7 @@
                   <script src="vertex.js"></script>
                   <!-- End App -->
                   
-                  <div id="printable-modal" class="reveal-modal" data-reveal="" style="z-index: 1300;">
-                     <a id="close-printable-modal" class="close-reveal-modal" aria-label="Close" style="z-index: 1300;" href="#"> </a>
-                     <div class="article-img-wrap text-center" style="z-index: 1300;">
-                        <a id="printable-modal-link-1" href="#" target="_blank"><img id="printable-modal-img" class="quote-img dropshadow" src="#" style="z-index: 1300;"></a>
-                     </div>
-                     <p class="text-center">
-                        This printable is for personal, non-commercial use only.
-                     </p>
-                     <div class="text-center"><a id="printable-modal-link-2" class="quick-link-button" href="#" target="_blank" style="z-index: 1300;">Click for PDF</a></div>
-                  </div>
+
                   <script>function printableLinkClickHandler(event){event.preventDefault();let el=event.currentTarget;let pdfURL=el.getAttribute("data-pdf-url");let imgURL=el.getAttribute("data-img-url");let printableID=el.getAttribute("data-printable-id");displayPrintableModal(pdfURL,imgURL);window.location.hash=printableID;}function displayPrintableModal(pdfURL,imgURL){let link1=document.getElementById("printable-modal-link-1");let link2=document.getElementById("printable-modal-link-2");let img=document.getElementById("printable-modal-img");link1.setAttribute("href",pdfURL);link2.setAttribute("href",pdfURL);img.setAttribute("src",imgURL);eval('$("#printable-modal").foundation("reveal", "open");')
                      eval('$(document).on("closed.fndtn.reveal", "[data-reveal]", function () { history.replaceState({}, "", "#"); });');}function loadModalFromURLFragment(event){let fragment=window.location.hash.substring(1);let el=document.querySelector("a[data-printable-id='"+fragment+"']")
                      if(el){let pdfURL=el.getAttribute("data-pdf-url");let imgURL=el.getAttribute("data-img-url");displayPrintableModal(pdfURL,imgURL);}}Array.from(document.querySelectorAll("a.printable-link")).forEach(function(el){el.addEventListener("click",printableLinkClickHandler);});window.addEventListener("load",loadModalFromURLFragment);
